@@ -6,7 +6,7 @@ I made this project as it my first projet in github just for fun, it allows me d
 ##Skills and Experience:
 
 ⛈ AWS
-💻 C# , CSS, HTML
+💻 JavaScript , CSS, HTML
 🖱 Python
 🌱 I’m currently learning C#
 
